@@ -1,21 +1,15 @@
-# 👋 Hey, I’m Wallace Copen
+# Hi, I’m Wallace Copen
 
-🚀 **Developer | Builder | Student**
+ **Developer | Builder | Student**
 
 I’m a high-school developer focused on building **real, well-architected projects** — not tutorials.  
 I care about **clean code, strong systems design, and aesthetics that feel intentional**.
 
-Currently balancing:
-- Advanced frontend engineering
-- Backend
-- Creative projects 
-- Rock climbing 
-
-🌐 **Portfolio:** [wallacecopen.dev](https://wallacecopen.dev)
+ **Portfolio:** [wallacecopen.dev](https://wallacecopen.dev)
 
 ---
 
-## 🧠 What I Work On
+## What I Work On
 - **Modern web apps** with strong UX and architecture
 - **Game & mod development** (Minecraft Fabric / Forge)
 - **Design-driven interfaces** inspired by Apple-level polish
@@ -23,7 +17,7 @@ Currently balancing:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React**
@@ -52,7 +46,7 @@ Currently balancing:
 
 ---
 
-## 🎮 Game & Mod Development
+## Game & Mod Development
 - Minecraft **Fabric & Forge**
 - Custom abilities, HUD systems, entities, particles
 - JSON models & Blockbench
