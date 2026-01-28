@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Wallace Copen
 
-🚀 ** Developer | Builder | Student **
+🚀 **Developer | Builder | Student**
 
 I’m a high-school developer focused on building **real, well-architected projects** — not tutorials.  
 I care about **clean code, strong systems design, and aesthetics that feel intentional**.
