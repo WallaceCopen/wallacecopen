@@ -1,60 +1,35 @@
-# Hi, I’m Wallace Copen
+# Hey, I'm Wallace 👋
 
- **Developer | Builder | Student**
+Self-taught developer and rock climber from Los Angeles. Been coding for 4+ years — 
+started with HTML and CSS, now building full-stack apps and Minecraft mods.
 
-I’m a high-school developer focused on building **real, well-architected projects** — not tutorials.  
-I care about **clean code, strong systems design, and aesthetics that feel intentional**.
+Currently working on two projects:
+- **[BitWise](https://learnbitwise.com)** — An AI-powered coding education platform with 
+adaptive lessons, Stripe subscriptions, and Claude AI code grading
+- **Hellenic** — A Greek mythology Minecraft mod built with Fabric and Java
 
- **Portfolio:** [wallacecopen.dev](https://wallacecopen.dev)
+Always building something. Right now I'm learning Java.
 
----
+## 🌐 Socials
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wallacecopen18@gmail.com)
+[![portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://wallacecopen.dev)
 
-## What I Work On
-- **Modern web apps** with strong UX and architecture
-- **Game & mod development** (Minecraft Fabric / Forge)
-- **Design-driven interfaces** inspired by Apple-level polish
-- **Security & systems learning** (ethical hacking foundations)
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
----
-
-## Tech Stack
-
-### Frontend
-- **React**
-- **Next.js**
-- TypeScript
-- Tailwind CSS
-- HTML5 / CSS3
-- Vite
-
-### Backend / Data
-- Next.js
-- Prisma *(learning)*
-- Supabase *(learning)*
-
-### Languages
-- **TypeScript**
-- **JavaScript**
-- **Java**
-- **Python**
-
-### Tools & Platforms
-- Git & GitHub
-- Figma (UI/UX & prototyping)
-- VS Code
-- Linux / macOS
-
----
-
-## Game & Mod Development
-- Minecraft **Fabric & Forge**
-- Custom abilities, HUD systems, entities, particles
-- JSON models & Blockbench
-- Large-scale mod architecture 
-
----
-
-## Outside of Code
-- Competitive **rock climber**
-- Guitarist & songwriter
-
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=wallacecopen&theme=darcula&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=wallacecopen&theme=darcula&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacecopen&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
