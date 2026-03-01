@@ -1,20 +1,20 @@
-# Hey, I'm Wallace 👋
+# Hey, I'm Wallace 
 
 Self-taught developer and rock climber from Los Angeles. Been coding for 4+ years — 
 started with HTML and CSS, now building full-stack apps and Minecraft mods.
 
 Currently working on two projects:
-- **[BitWise](https://learnbitwise.com)** — An AI-powered coding education platform with 
+- **BitWise** — An AI-powered coding education platform with 
 adaptive lessons, Stripe subscriptions, and Claude AI code grading
 - **Hellenic** — A Greek mythology Minecraft mod built with Fabric and Java
 
 Always building something. Right now I'm learning Java.
 
-## 🌐 Socials
+## Socials
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wallacecopen18@gmail.com)
 [![portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://wallacecopen.dev)
 
-## 💻 Tech Stack
+## Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,7 +29,7 @@ Always building something. Right now I'm learning Java.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=wallacecopen&theme=darcula&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=wallacecopen&theme=darcula&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacecopen&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
