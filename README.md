@@ -1,5 +1,4 @@
 # Hey, I'm Wallace 
-
 Self-taught developer and rock climber from Los Angeles. Been coding for 4+ years — 
 started with HTML and CSS, now building full-stack apps and Minecraft mods.
 
@@ -11,8 +10,9 @@ adaptive lessons, Stripe subscriptions, and Claude AI code grading
 Always building something. Right now I'm learning Java.
 
 ## Socials
+[![github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/WallaceCopen)
+[![portfolio](https://img.shields.io/badge/Portfolio-F38020?logo=cloudflare&logoColor=white)](https://wallacecopen.dev)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wallacecopen18@gmail.com)
-[![portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://wallacecopen.dev)
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
