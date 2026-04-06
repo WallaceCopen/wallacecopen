@@ -1,15 +1,11 @@
-# Welcome to my profile
-Self-taught developer from Los Angeles.
+# Welcome
+I am a developer from Los Angeles.
 
-Currently working on two projects:
-- **BitWise** — An AI-powered coding education platform with 
-adaptive lessons, Stripe subscriptions, and Claude AI code grading
-- **Hellenic** — A Greek mythology Minecraft mod built with Fabric and Java
+## Contact/Socials
+[![Github](https://img.shields.io/badge/Github-21262D?style=for-the-badge)](https://github.com/wallacecopen)
+[![Email](https://img.shields.io/badge/Email-21262D?style=for-the-badge)](mailto:wallacecopen18@gmail.com)
+[![Website](https://img.shields.io/badge/Website-21262D?style=for-the-badge)](https://wallacecopen.dev)
 
-## Socials
-[![github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/WallaceCopen)
-[![portfolio](https://img.shields.io/badge/Portfolio-F38020?logo=cloudflare&logoColor=white)](https://wallacecopen.dev)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wallacecopen18@gmail.com)
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,7 +23,5 @@ adaptive lessons, Stripe subscriptions, and Claude AI code grading
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## GitHub Stats
-![](https://github-readme-stats-fork-wine-five.vercel.app/api?username=WallaceCopen&theme=darcula&show_icons=true&include_all_commits=true&count_private=true)
-![](https://vercel.app)
+## Top Languages
 ![](https://github-readme-stats-fork-wine-five.vercel.app/api/top-langs/?username=WallaceCopen&theme=darcula&layout=compact)
