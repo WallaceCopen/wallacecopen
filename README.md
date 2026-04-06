@@ -24,4 +24,4 @@ I am a developer from Los Angeles.
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ## Top Languages
-![](https://github-readme-stats-fork-wine-five.vercel.app/api/top-langs/?username=WallaceCopen&theme=darcula&layout=compact)
+![](https://github-readme-stats-fork-wine-five.vercel.app/api/top-langs/?username=WallaceCopen&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact&hide_border=true)
