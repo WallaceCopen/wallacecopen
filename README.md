@@ -30,6 +30,6 @@ Always building something. Right now I'm learning Java.
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ## GitHub Stats
-![](https://github-readme-stats-fork-wine-five.vercel.app/api?username=wallacecopen&theme=darcula&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-fork-wine-five.vercel.app/api?username=WallaceCopen&theme=darcula&show_icons=true&include_all_commits=true&count_private=true)
 ![](https://vercel.app)
-![](https://github-readme-stats-fork-wine-five.vercel.app/api/top-langs/?username=wallacecopen&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-fork-wine-five.vercel.app/api/top-langs/?username=WallaceCopen&theme=darcula&layout=compact)
