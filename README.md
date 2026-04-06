@@ -1,13 +1,10 @@
-# Hey, I'm Wallace 
-Self-taught developer and rock climber from Los Angeles. Been coding for 4+ years — 
-started with HTML and CSS, now building full-stack apps and Minecraft mods.
+# Welcome to my profile
+Self-taught developer from Los Angeles.
 
 Currently working on two projects:
 - **BitWise** — An AI-powered coding education platform with 
 adaptive lessons, Stripe subscriptions, and Claude AI code grading
 - **Hellenic** — A Greek mythology Minecraft mod built with Fabric and Java
-
-Always building something. Right now I'm learning Java.
 
 ## Socials
 [![github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/WallaceCopen)
