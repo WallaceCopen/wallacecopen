@@ -31,5 +31,5 @@ Always building something. Right now I'm learning Java.
 
 ## GitHub Stats
 ![](https://github-readme-stats-fork-wine-five.vercel.app/api?username=wallacecopen&theme=darcula&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats-fork-wine-five.vercel.app/?user=wallacecopen&theme=darcula&hide_border=true)
+![](https://vercel.app)
 ![](https://github-readme-stats-fork-wine-five.vercel.app/api/top-langs/?username=wallacecopen&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
