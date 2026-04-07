@@ -23,6 +23,7 @@ I am a developer from Los Angeles.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Top Languages
 ![](https://github-readme-stats-fork-wine-five.vercel.app/api/top-langs/?username=WallaceCopen&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact&hide_border=true)
