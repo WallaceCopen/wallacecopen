@@ -22,7 +22,7 @@ I am a developer from Los Angeles.
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%00000.svg?style=for-the-badge&logo=Linux&logoColor=yellow)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Top Languages
 ![](https://github-readme-stats-fork-wine-five.vercel.app/api/top-langs/?username=WallaceCopen&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact&hide_border=true)
